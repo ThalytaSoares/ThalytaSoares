@@ -10,6 +10,7 @@
   <img align="center" class="avatar mr-2 d-none d-md-block" alt="Postman" src="https://avatars.githubusercontent.com/u/10251060?s=48&amp;v=4" width="26" height="26">
   <img align="center" class="avatar mr-2 d-none d-md-block" alt="Cucumber" src="https://avatars.githubusercontent.com/u/320565?s=48&amp;v=4" width="26" height="26">
   <img align="center" alt="Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+  <img align="center" alt="Cypress" height="32" width="32" src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_32x32.png">
 </div>
   
   ##
