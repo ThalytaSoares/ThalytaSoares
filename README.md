@@ -90,4 +90,3 @@ O desafio foi finalizado e está pronto para ser avaliado.
 ---
 
 Desenvolvido com 💛 por Thalyta Soares
-# DesafioTecnicoQA
