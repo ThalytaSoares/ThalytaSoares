@@ -85,9 +85,9 @@ npm install
 
 ## 📬 Entrega
 
-O desafio foi finalizado e está pronto para ser avaliado. Link do repositório: **[coloque aqui o link do seu GitHub]**
+O desafio foi finalizado e está pronto para ser avaliado.
 
 ---
 
-Desenvolvido com 💛 por [Seu Nome]
+Desenvolvido com 💛 por Thalyta Soares
 # DesafioTecnicoQA
